@@ -20,4 +20,8 @@ It's easier to picture parent commits and potentially unreachable commits -- as 
 
 // What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-One branch takes over for both, so that the most recent commit will have two parent commits -- one in each branch.
+One branch takes over for both, so that the most recent commit will have two parent commits -- one in each branch. The merge will attempt to keep new additions from each branch, using some basic logic.
+
+// What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging uses simple logic, and can probably be trusted in many cases. Manual merges seem a bit frustrating and more time-consuming, but you can be surer of what you'll get.
