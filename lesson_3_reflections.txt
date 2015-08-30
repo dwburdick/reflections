@@ -5,3 +5,7 @@ I'll use it immediately so I can switch computers to work in different environme
 // What is the benefit of having a copy of the last known state of the remote stored locally?
 
 I'm less likely to be far off of any changes being made remotely and will have less work to do if I have to merge remote changes. 
+
+// How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I could send files via Dropbox or a similar service, but the documentation would be a bit more involved, and changes would be much harder to keep track of. 
