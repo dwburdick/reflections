@@ -17,3 +17,7 @@ I'm less likely to be far off of any changes being made remotely and will have l
 // How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I could send files via Dropbox or a similar service, but the documentation would be a bit more involved, and changes would be much harder to keep track of.
+
+// When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I might make changes in a separate branch when I'm working on a new feature that isn't ready for prime-time yet -- or something that could ultimately be a completely and permanently separate version of a product, say in a different language or with a different purpose.
